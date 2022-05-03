@@ -1,7 +1,7 @@
 # Foundations-Node
 Basic Node exercises for practicing its foundations.
 
-## Difficulty: 🟣 Very Easy 
+## Difficulty: ⚪ Very Easy 
 
 ## Project Description
 In this project you can see basic elements of Node.js applied in some exercises. The idea is to see how Node makes use of JavaScript outside the browser so you can create amazing software solutions with its core and imported packages.
